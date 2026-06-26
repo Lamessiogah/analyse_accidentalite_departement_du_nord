@@ -180,7 +180,7 @@ Score = Accidents + 3 × Blessés graves + 5 × Tués
 
 Cette visualisation met en évidence les catégories de routes présentant le niveau de risque le plus élevé afin d'aider à la priorisation des actions de sécurisation.
 
-![Classement du risque](LIEN_VERS_CLASSEMENT)
+![Classement du risque](https://github.com/Lamessiogah/analyse_accidentalite_departement_du_nord/blob/main/classement_risque_nord.csv)
 
 ---
 
