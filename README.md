@@ -137,8 +137,7 @@ Vue d'ensemble des principaux indicateurs de l'accidentalité routière du Dépa
 
 Visualisation de la répartition des accidents au cours de l'année afin d'identifier les périodes les plus accidentogènes.
 
-![Accidents par mois](LIEN_VERS_ACCIDENTS_MOIS)
-
+![Accidents par mois](https://github.com/Lamessiogah/analyse_accidentalite_departement_du_nord/blob/main/accidents_par_mois.png)
 ---
 
 ### 🌧️ Accidents selon les conditions météorologiques
