@@ -129,7 +129,7 @@ Vue d'ensemble des principaux indicateurs de l'accidentalité routière du Dépa
 - Taux de gravité
 - Score de risque par catégorie de route
 
-![Tableau de bord](https://github.com/Lamessiogah/analyse_accidentalite_departement_du_nord/blob/main/tableaux_de_bord_sur_le_terminal.png)
+[Tableau de bord](https://github.com/Lamessiogah/analyse_accidentalite_departement_du_nord/blob/main/tableaux_de_bord_sur_le_terminal.png)
 
 ---
 
