@@ -129,7 +129,7 @@ Vue d'ensemble des principaux indicateurs de l'accidentalité routière du Dépa
 - Taux de gravité
 - Score de risque par catégorie de route
 
-[Tableau de bord](https://github.com/Lamessiogah/analyse_accidentalite_departement_du_nord/blob/main/tableaux_de_bord_sur_le_terminal.png)
+![Tableau de bord](https://github.com/Lamessiogah/analyse_accidentalite_departement_du_nord/blob/main/tableaux_de_bord_sur_le_terminal.png)
 
 ---
 
@@ -166,7 +166,7 @@ Visualisation de la répartition des accidents en fonction des limitations de vi
 
 Elle permet d'étudier l'influence de la vitesse réglementaire sur l'accidentalité.
 
-![Accidents selon la vitesse](LIEN_VERS_VITESSE)
+![Accidents selon la vitesse](https://github.com/Lamessiogah/analyse_accidentalite_departement_du_nord/blob/main/accidents%20vitesse%20maximale%20autorise.png)
 
 ---
 
