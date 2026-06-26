@@ -146,7 +146,7 @@ Analyse de l'influence des conditions météorologiques sur l'accidentalité.
 
 Cette visualisation permet d'identifier les situations climatiques les plus propices aux accidents.
 
-![Accidents selon la météo](LIEN_VERS_METEO)
+![Accidents selon la météo](https://github.com/Lamessiogah/analyse_accidentalite_departement_du_nord/blob/main/accidents_par_meteo.png)
 
 ---
 
@@ -156,7 +156,7 @@ Comparaison du nombre d'accidents selon les différentes catégories de routes.
 
 Cette analyse permet d'identifier les infrastructures les plus concernées par les accidents.
 
-![Accidents par type de route](LIEN_VERS_TYPE_ROUTE)
+![Accidents par type de route](https://github.com/Lamessiogah/analyse_accidentalite_departement_du_nord/blob/main/accidents_par_type_de_route.png)
 
 ---
 
